@@ -1,0 +1,15 @@
+{
+  "name": "planningzilla-backend",
+  "version": "1.0.0",
+  "description": "Planningzilla - A budget planning project! ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test:unit"
+  },
+  "keywords": [
+    "planning",
+    "budget"
+  ],
+  "author": "Leonel Aguilar @ leoaguilarsanchez97@gmail.com",
+  "license": "ISC"
+}
